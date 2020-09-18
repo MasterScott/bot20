@@ -1,0 +1,5 @@
+discord.py
+speedtest-cli
+pyfiglet
+pytz
+psutil
